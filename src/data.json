@@ -1,0 +1,42 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": 5,
+    "reviewText": "A timeless classic that delves into themes of justice and morality. Absolutely loved it!",
+    "createdAt": "2024-11-29T00:16:05.648+00:00",
+    "updatedAt": "2024-11-29T00:16:05.648+00:00"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "rating": 4,
+    "reviewText": "A chilling and thought-provoking look into a dystopian future. A must-read for everyone.",
+    "createdAt": "2024-11-29T00:16:05.648+00:00",
+    "updatedAt": "2024-11-29T00:16:05.648+00:00"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": 3,
+    "reviewText": "Beautifully written but the story felt a bit slow for me. Still worth a read for the prose.",
+    "createdAt": "2024-11-29T00:16:05.648+00:00",
+    "updatedAt": "2024-11-29T00:16:05.648+00:00"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "rating": 5,
+    "reviewText": "A delightful exploration of relationships and societal norms. Elizabeth Bennet is such a compelling character!",
+    "createdAt": "2024-11-29T00:16:05.648+00:00",
+    "updatedAt": "2024-11-29T00:16:05.648+00:00"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": 4,
+    "reviewText": "An engaging adventure with rich storytelling. A fantastic precursor to the Lord of the Rings series.",
+    "createdAt": "2024-11-29T00:16:05.648+00:00",
+    "updatedAt": "2024-11-29T00:16:05.648+00:00"
+  }
+]
